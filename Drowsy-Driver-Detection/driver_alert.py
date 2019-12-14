@@ -1,5 +1,5 @@
-#from scipy.spatial import distance as dist
-#sfrom imutils import face_utils
+from scipy.spatial import distance as dist
+from imutils import face_utils
 import numpy as np
 import dlib
 import cv2
